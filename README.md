@@ -8,4 +8,4 @@ Detecting face
 4. If there is no error, now Run.
 
 
-For any question reachout to me https://www.linkedin.com/in/radhashyam-nayak-21b776195 :)
+For any question reach out to me https://www.linkedin.com/in/radhashyam-nayak-21b776195 :)
