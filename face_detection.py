@@ -2,7 +2,7 @@ import cv2
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye_tree_eyeglasses.xml')
-# img = cv2.imread('E:\\python\\opencv_tutorial\\messi.jpg')
+# img = cv2.imread('your image path')
 cap = cv2.VideoCapture(0)
 
 while cap.isOpened():
